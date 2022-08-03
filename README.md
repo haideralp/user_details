@@ -107,8 +107,8 @@ print(salary.isdigit())
 ```
 
 # Creating a Gitignore File
-  -  Initialise creating a text file in the main (root) directory, then add files that are to be exempted:
-    ![](C:\Users\haide\PycharmProjects\user_details\gitignore.PNG)
+  - Initialise creating a text file in the main (root) directory, then add files that are to be exempted:
+    ![](C:\Users\haide\PycharmProjects\Python_Sparta\user_details\screenshot gitignore.PNG)
 
 # Definition of Ready (DOR)
 
